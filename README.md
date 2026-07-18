@@ -20,18 +20,6 @@ I build responsive web and mobile applications that solve real-world problems an
 <img src="https://img.icons8.com/color/48/discord--v2.png" width="45"/>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/solomonboluwatife" target="_blank">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
-</a>
-
-<a href="https://x.com/YOUR_USERNAME" target="_blank">
-<img src="https://img.icons8.com/ios-filled/50/twitterx.png" width="45"/>
-</a>
-
 </p>
 
 ---
@@ -191,8 +179,16 @@ Built with
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/solomonboluwatife">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/solomonboluwatife" target="_blank">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
+</a>
+
+<a href="https://x.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.icons8.com/ios-filled/50/twitterx.png" width="45"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="45"/>
 </a>
 
 </p>
