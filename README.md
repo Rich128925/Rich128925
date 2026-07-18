@@ -12,16 +12,6 @@ I build responsive web and mobile applications that solve real-world problems an
 
 ---
 
-# 🌐 Socials
-
-<p align="left">
-
-<a href="https://discord.gg/YOUR_DISCORD_INVITE" target="_blank">
-<img src="https://img.icons8.com/color/48/discord--v2.png" width="45"/>
-</a>
-
-</p>
-
 ---
 
 # 🚀 About Me
@@ -189,6 +179,10 @@ Built with
 
 <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
 <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="45"/>
+</a>
+
+<a href="https://discord.gg/YOUR_DISCORD_INVITE" target="_blank">
+<img src="https://img.icons8.com/color/48/discord--v2.png" width="45"/>
 </a>
 
 </p>
