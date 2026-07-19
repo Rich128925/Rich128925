@@ -3,7 +3,9 @@
 <h3 align="center">Frontend & Mobile Developer | Building Clean & User-Focused Digital Experiences 🚀</h3>
 
 <p align="center">
-I build responsive web and mobile applications that solve real-world problems and deliver exceptional user experiences.
+I am a Frontend and Mobile Developer with hands-on experience building responsive web and mobile applications. I specialise in using JavaScript, TypeScript, React, React Native, Next.js, Firebase, and REST APIs to create modern, scalable, and user-focused digital products.
+
+I have worked on projects including e-commerce platforms, expense trackers, chat applications, and business management systems, where I focused on building intuitive user interfaces, integrating backend services, and delivering seamless user experiences. I enjoy writing clean, maintainable code and continuously improving my skills by exploring new technologies and building practical solutions to real-world problems.
 </p>
 
 <p align="center">
