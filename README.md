@@ -1,4 +1,4 @@
-# 👋 Hey, I'm God'swill
+# 👋 Hey, I'm Boluwatife
 
 <h3 align="center">Frontend & Mobile Developer | Building Clean & User-Focused Digital Experiences 🚀</h3>
 
@@ -27,7 +27,7 @@ I have worked on projects including e-commerce platforms, expense trackers, chat
 
 ---
 
-# 💻 Tech Stack
+# 💻 Frontend
 
 <p align="left">
 
@@ -51,8 +51,7 @@ I have worked on projects including e-commerce platforms, expense trackers, chat
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=firebase" />
 <img src="https://skillicons.dev/icons?i=supabase" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
+
 
 </p>
 
@@ -173,7 +172,7 @@ Built with
 </a>
 
 <a href="https://github.com/Rich128925">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/solomonboluwatife" target="_blank">
